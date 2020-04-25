@@ -11,4 +11,4 @@ you want to add and hit submit again (I presume that the total points of exam an
 If you're interested in the calculation behind, I left the code in index.html in this repository. 
 
 Also, I could have decorated the page a lot more but I figured it's not necessary since I could be using that time to grind APUSH.
-If there's any error, lmk (not just this year but in the future as well).
+If there's any error or if you have any questions, let me know (not just this year but in the future as well).
