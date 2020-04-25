@@ -6,7 +6,7 @@ I figured that it might be too inconvenient for you so I made it into a minimal 
 all you have to do is click [here](https://ForMrsJames.feiyangtang.repl.co) and you should be able to access it.
 
 I set it so that the page doesn't refresh after submitting so all you have to do is change the student grade and the percent
-you want to add (I presume that the total points of exam and the exam weight is same for everybody so).
+you want to add (I presume that the total points of exam and the exam weight is same for everybody so). After you hit the submit button, there should be an alert that displays the total points you need to put in for the exam.
 
 If you're interested in the calculation behind, I left the code in index.html in this repository. 
 
